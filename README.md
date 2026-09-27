@@ -1,22 +1,16 @@
-# ip-portfolio-tracker
+# IP Portfolio Tracker
 
-**Track patents, trademarks and renewals** across jurisdictions with deadline alerts. Part of the [Zion App Network](https://github.com/Zion-support/zion-app-network) — Batch 58: Legal & Compliance Ops AI.
+Track patents, trademarks and renewals across jurisdictions.
 
-🌐 **Live:** https://ziontechgroup.com/ip-portfolio-tracker/
+**Live:** https://ziontechgroup.com/ip-portfolio-tracker/
 
 ## Features
-- Patent & trademark portfolio register
-- Renewal and annuity deadline alerts per jurisdiction
-- Competitive filing watch
-- Cost forecasting per asset family
+- Unified patent, trademark and design registry
+- Renewal and annuity deadline alerts with cost forecasting
+- Jurisdiction coverage maps and gap analysis
+- Competitor filing watch with alerts
 
-## 🔗 Network
-- 🏠 Homepage: https://ziontechgroup.com
-- 🗂️ Hub: https://ziontechgroup.com/zion-app-network/ · [GitHub](https://github.com/Zion-support/zion-app-network)
-- 📣 Showcase: https://ziontechgroup.com/zion-app-network/app-network-batch58-sept27.html
+## Part of the Zion App Network
+See [ZION_APP_NETWORK.md](ZION_APP_NETWORK.md) for the full app network and related tools.
 
-### Batch 58 — Legal & Compliance Ops AI
-[legal-brief-drafter](https://github.com/Zion-support/legal-brief-drafter) · [e-discovery-copilot](https://github.com/Zion-support/e-discovery-copilot) · [dpo-privacy-assistant](https://github.com/Zion-support/dpo-privacy-assistant) · [contract-negotiation-ai](https://github.com/Zion-support/contract-negotiation-ai) · [ip-portfolio-tracker](https://github.com/Zion-support/ip-portfolio-tracker) · [regulatory-filing-copilot](https://github.com/Zion-support/regulatory-filing-copilot) · [litigation-risk-scorer](https://github.com/Zion-support/litigation-risk-scorer) · [legal-spend-optimizer](https://github.com/Zion-support/legal-spend-optimizer)
-
----
-© 2026 [Zion Tech Group](https://ziontechgroup.com) · Plans: https://ziontechgroup.com/en/plans/
+— © 2026 Zion Tech Group · https://ziontechgroup.com
